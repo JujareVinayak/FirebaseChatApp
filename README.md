@@ -26,6 +26,7 @@ iv.  select functions with your app selected and start download.
 c. Open Your_FireBase_Path\notificationFunction\functions\index.js. Modify index.js file. Its there in path FirebaseChatApp/app/index.js
 7. Cleared google-services.json for security purposes.
 8. Take care of Run time permissions
+
 Images Details:
 1. Login_Page
 2. Login_Progress
