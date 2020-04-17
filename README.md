@@ -35,7 +35,7 @@ Images Details:
 5. Menu
 6. Profile_Activity
 7. Users_Activity
-8. Dialog_Options
+8. Dialog_Options(Open User Profile, Send a message)
 9. Chat_Activity_User1
 10. Chat_Activity_User2
 
