@@ -28,7 +28,7 @@ c. Open Your_FireBase_Path\notificationFunction\functions\index.js. Modify index
 8. Take care of Run time permissions
 
 # Images Details:
-1. Login_Page
+1. Login_Activity
 2. Register_Activity
 3. Login_Progress
 4. Chats_Tab
