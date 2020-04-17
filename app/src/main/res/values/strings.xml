@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Let\'s Chat</string>
+    <string name="textView">Main</string>
+    <string name="Register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="welcome">Welcome to Let\'s Chat </string>
+    <string name="logout">Logout</string>
+    <string name="users">Users</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+
+
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="sign_in_redirect">Already a member? Sign in!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_up_redirect">Don\'t have an account? Register here!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
