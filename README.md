@@ -1,6 +1,6 @@
 # FirebaseChatApp
  Here is the app "Let us Chat". A Chat Application demo project.
- Features:
+# Features:
 1. User Authentication.
 2. Setting Profile Pic.
 3. Setting Status.
@@ -10,7 +10,7 @@
 7. Friends Tab
 8. Chats Tab
 
-Prerequisite:
+# Prerequisite:
 1. Create an account in firebase console.
 2. Create your project in firebase.
 3. Make sure you connected to firebase. Tools -> Firebase.
@@ -27,18 +27,19 @@ c. Open Your_FireBase_Path\notificationFunction\functions\index.js. Modify index
 7. Cleared google-services.json for security purposes.
 8. Take care of Run time permissions
 
-Images Details:
+# Images Details:
 1. Login_Page
-2. Login_Progress
-3. Chats_Tab
-4. Friends_Tab
-5. Menu
-6. Profile_Activity
-7. Users_Activity
-8. Dialog_Options(Open User Profile, Send a message)
-9. Chat_Activity_User1
-10. Chat_Activity_User2
+2. Register_Activity
+3. Login_Progress
+4. Chats_Tab
+5. Friends_Tab
+6. Menu
+7. Profile_Activity
+8. Users_Activity
+9. Dialog_Options(Open User Profile, Send a message)
+10. Chat_Activity_User1
+11. Chat_Activity_User2
 
 
 
-<img src="ScreenShots/Login_Page.png" width="300" height="550" hspace=20><img src="ScreenShots/Login_Progress.png" width="300" height="550" hspace=20><img src="ScreenShots/Chats_Tab.png" width="300" height="550" hspace=20><img src="ScreenShots/Friends_Tab.png" width="300" height="550" hspace=20><img src="ScreenShots/Menu.png" width="300" height="550" hspace=20><img src="ScreenShots/Profile_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Users_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Dialog_Options.png" width="300" height="550" hspace=20><img src="ScreenShots/Chat_Activity_User1.png" width="300" height="550" hspace=20><img src="ScreenShots/Chat_Activity_User2.jpg" width="300" height="550" hspace=20>
+<img src="ScreenShots/Login_Page.png" width="300" height="550" hspace=20><img src="ScreenShots/Register_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Login_Progress.png" width="300" height="550" hspace=20><img src="ScreenShots/Chats_Tab.png" width="300" height="550" hspace=20><img src="ScreenShots/Friends_Tab.png" width="300" height="550" hspace=20><img src="ScreenShots/Menu.png" width="300" height="550" hspace=20><img src="ScreenShots/Profile_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Users_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Dialog_Options.png" width="300" height="550" hspace=20><img src="ScreenShots/Chat_Activity_User1.png" width="300" height="550" hspace=20><img src="ScreenShots/Chat_Activity_User2.jpg" width="300" height="550" hspace=20>
