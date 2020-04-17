@@ -17,4 +17,4 @@ Prerequisite:
 4. Connect your app to Firebase in Tools -> Firebase, for Authentication, Realtime Database, Storage. Cloud Function for firebase.
 5. Mostly importantly add required gradle dependencies for firebase with compatible versions of firebase.
 
-![Alt text](/FirebaseChatApp\app\src\main\res\drawable-xhdpi\online.png?raw=true "Optional Title")
+![Alt text](/FirebaseChatApp/app/src/main/res/drawable-xhdpi/online.png?raw=true "Optional Title")
