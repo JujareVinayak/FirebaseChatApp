@@ -31,7 +31,7 @@ import java.util.Map;
 public class ProfileActivity extends AppCompatActivity {
 
     private ImageView profilePic;
-    private TextView userName, userStatus, friendRequestsCount;
+    private TextView userName, userStatus;
     private Button sendFriendRequest,declineFriendRequest;
     private DatabaseReference userDatabaseReference, friendRequestDb, friendsDatabase;
     private String currentState;
@@ -48,7 +48,6 @@ public class ProfileActivity extends AppCompatActivity {
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         userName = (TextView)findViewById(R.id.profile_display_name);
         userStatus = (TextView)findViewById(R.id.profile_user_status);
-        friendRequestsCount = (TextView)findViewById(R.id.profile_total_friends);
         profilePic = (ImageView) findViewById(R.id.profile_user_pic);
         sendFriendRequest = (Button) findViewById(R.id.profile_send_request_button);
         declineFriendRequest = (Button) findViewById(R.id.profile_decline_button);
