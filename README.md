@@ -33,7 +33,10 @@ Images Details:
 5. Menu
 6. Profile_Activity
 7. Users_Activity
-8. Dialog_Options(Open User profile, Send a message)
+8. Dialog_Options
 9. Chat_Activity_User1
 10. Chat_Activity_User2
+
+
+
 <img src="ScreenShots/Login_Page.png" width="300" height="550" hspace=20><img src="ScreenShots/Login_Progress.png" width="300" height="550" hspace=20><img src="ScreenShots/Chats_Tab.png" width="300" height="550" hspace=20><img src="ScreenShots/Friends_Tab.png" width="300" height="550" hspace=20><img src="ScreenShots/Menu.png" width="300" height="550" hspace=20><img src="ScreenShots/Profile_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Users_Activity.png" width="300" height="550" hspace=20><img src="ScreenShots/Dialog_Options.png" width="300" height="550" hspace=20><img src="ScreenShots/Chat_Activity_User1.png" width="300" height="550" hspace=20><img src="ScreenShots/Chat_Activity_User2.jpg" width="300" height="550" hspace=20>
