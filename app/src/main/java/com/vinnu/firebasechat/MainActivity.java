@@ -42,9 +42,6 @@ public class MainActivity extends AppCompatActivity {
     private static final int MY_PERMISSIONS_REQUEST_ACCESS_CODE = 1;
 
 
-
-    //The capture service
-
     public final String TAG = "MainActivity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -126,19 +123,6 @@ public class MainActivity extends AppCompatActivity {
         }else {
             userDatabaseReference.child("online").setValue(ServerValue.TIMESTAMP);
         }
-    }
-
-
-
-    private void showToast(final String text) {
-        runOnUiThread(new Runnable() {
-                          @Override
-                          public void run() {
-                              Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
-                          }
-                      }
-
-        );
     }
 
     @Override
